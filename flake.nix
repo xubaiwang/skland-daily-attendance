@@ -30,7 +30,7 @@
 
           pnpmDeps = pnpm_9.fetchDeps {
             inherit (finalAttrs) pname version src;
-            hash = "sha256-ydd3G6XGS5ua2QQt0mN+StKTndzDtxgHHis3wU+LhJ0=";
+            hash = "sha256-/pU9nIC7z5YhpiFnRORG0utrMrJGJwyqN0fmSEeungI=";
           };
           nativeBuildInputs = [
             nodejs
